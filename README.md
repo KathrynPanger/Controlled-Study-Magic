@@ -9,6 +9,7 @@ This simple program generates two lists of random numbers, one is supposedly aff
 <br>
 Dependent Variable: "Enchanted." This is a dummy variable indicating whether a magic spell was cast upon the computer before the computation of the random list (experimental group, coded 1) or if it was not (control group, 0).
 <br>
+<br>
 <p>Independent Variable: "Value." These are the values for the randomly generated numbers in both lists.</p>
 <br>
 <p>This process of generating a regression model is reproducable. Because the significance of the effect of the magic spell is tested at a 95% confidence level (p<0.05), results should be reproduced several times in order to determine whether the initial results fall into the 5% probability of a false positive or false negative result.</p>
