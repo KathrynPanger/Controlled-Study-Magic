@@ -1,10 +1,10 @@
 # Controlled-Study-Magic
 
 <h2>Falsifying Magic: A controlled study of the effect of magic spells on randomly generated integers. </h2>
-Many people believe that magic is real, and that it can influence the world to such a degree that a scientific test would demonstrate this. I designed and implemented such a study. Results pending implementation by someone who believes in magic (i.e. not me). Note that this same study can be used to test the efficacy of prayer.
+Many people believe that magic is real, and that it can influence the world to such a degree that a scientific test would demonstrate this. I designed and implemented such a study. Note that this same study can be used to test the efficacy of prayer.
 
 <h3>Methods</h3>
-This simple program generates two lists of random numbers, one is supposedly affected by "magic" and one which is not. Using logistic regression, I test whether the so-called magician can use their magic to enchant the computer such that it will generate the second list under the influence of this magic, injecting bias into the generation of the second list.
+This simple program generates two lists of random numbers, one is supposedly affected by "magic" and one which is not. Using logistic regression I test whether the so-called magician can use their magic to enchant the computer such that it will generate the second list under the influence of this magic, injecting bias into the generation of the second list.
 <br>
 <br>
 Dependent Variable: "Enchanted." This is a dummy variable indicating whether a magic spell was cast upon the computer before the computation of the random list (experimental group, coded 1) or if it was not (control group, 0).
