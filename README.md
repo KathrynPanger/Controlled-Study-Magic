@@ -6,6 +6,7 @@ Someone I knew made a bold claim; that magic is real, and that it can influence 
 <h3>Methods</h3>
 This simple program generates two lists of random numbers, one is supposedly affected by "magic" and one which is not. Using simple linear regression, I test whether the so-called magician can use their magic to enchant the computer such that it will generate the second list under the influence of this magic, injecting bias into the generation of the second list.
 <br>
+<br>
 Dependent Variable: "Enchanted." This is a dummy variable indicating whether a magic spell was cast upon the computer before the computation of the random list (experimental group, coded 1) or if it was not (control group, 0).
 <br>
 <p>Independent Variable: "Value." These are the values for the randomly generated numbers in both lists.</p>
