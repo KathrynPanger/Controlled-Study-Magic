@@ -22,7 +22,7 @@ Dependent Variable: "Enchanted." This is a dummy variable indicating whether a m
 * This study is limited in that it cannot test for the possibility that magic is inherently untestable and unfalsifiable, a claim that many magicians make. This of course would mean that any study is doomed to fail, and also that magic spells have no measurable material effect on the physical world. This of course would mean that magic spells definitionally have no effect on anything real, but that is a matter of philosophical debate.</p>
 
 <h2>Critiques and Rebutals</h2>
-<p>Critique: "Number generation is only pseudo-random, and not truely random, so the results are invalidated" 
+<p>Critique: "Number generation is only pseudo-random, and not truely random, so the results are invalidated." 
 <p>Rebuttal: If this is true, then it is equally true for both the control group and the experimental group, so it would not introduce bias into the final results.
 <p>
 <p>Critique: "Magic only works on (x) and does not work on randomly generated numbers."
