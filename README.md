@@ -26,7 +26,7 @@ Independent Variable: "Enchanted." This is a dummy variable indicating whether a
 <p>Rebuttal: If this is true, then it is equally true for both the control group and the experimental group, so it would not introduce bias into the final results.
 <p>
 <p>Critique: "Magic only works on (x) and does not work on randomly generated numbers."
-<p>Rebuttal: This claim is an example of the heuristic of confirmation bias (evidence only counts when it verifies my beliefs) and the fallacy of shifting the goalposts (post-hoc changing the requirements for evidence after the fact in order to invalidate any study with unwanted results).</p>
+<p>Rebuttal: This claim is an example of the heuristic of confirmation bias (evidence only counts when it verifies my beliefs) and the fallacy of shifting the goalposts (post-hoc changing the requirements for evidence after the fact in order to invalidate any study with unwanted results). If magic can be used to influence the material world in any useful way, then by definition it must be measurable.</p>
 <p></p>
 <p></p>
 <h2>Results</h2>
