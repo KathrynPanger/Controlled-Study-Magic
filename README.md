@@ -30,4 +30,4 @@ Independent Variable: "Enchanted." This is a dummy variable indicating whether a
 <p></p>
 <p></p>
 <h2>Results</h2>
-Results for this study are pending implimentation by someone who believes in magic (i.e. not me) and who is fully qualified to cast such a spell. If you feel that you are qualified, feel free to try the study for yourself!</p>
+Results for this study are pending implimentation by someone who believes in magic (i.e. not me) and who is fully qualified to cast such a spell. If you feel that you are qualified, feel free to try the study for yourself! Simply open the notebook and follow the instructions. If you successfully cast a magic spell upon the code, then this will be reflected in the final results. Instructions for interpreting the results are also included.</p>
