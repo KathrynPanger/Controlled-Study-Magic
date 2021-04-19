@@ -1,6 +1,6 @@
 # Controlled-Study-Magic
 
-<h2>Falsifying Magic: A controlled study of the effect of magic spells on randomly generated integers. </h2>
+<h2>Falsifying Magic: A controlled study of the effect of magic spells on randomly generated integers </h2>
 Many people believe that magic is real, and that it can influence the world to such a degree that a scientific test would demonstrate this. I designed and implemented such a study. Note that this same study can be used to test the efficacy of prayer.
 
 <h3>Methods</h3>
