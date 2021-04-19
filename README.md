@@ -16,7 +16,7 @@ Independent Variable: "Enchanted." This is a dummy variable indicating whether a
 
 
 <h2>Limitations and Opportunities for Increased Rigor</h2>
-* Rigor could be increased by changing the control group to a "placebo" tradition, whereby the researcher engages in  what they consider to be a non-magical ritual practiced before this set of numbers is generated, like reciting the pledge of allegence, for example.<br>  
+* Rigor could be increased by changing the control group to a "placebo" condition, whereby the researcher engages in  what they consider to be a non-magical ritual practiced before this set of numbers is generated, like reciting the pledge of allegence, for example.<br>  
 * Rigor could be increased by generating multiple lists for both the control and the experimental condition, rather than simply casting the spell once. This would account for the possibility that one of the spells was simply performed incorrectly.<br>  
 * Rigor could be increased by introducing a third categorical variable into the regression model accounting for the denomiation of the caster, and thus the type of spell which was cast. If one method of casting spells is more effective than the others (assuming any have a measurable effect at all) it would be reflected in this variable.<br>  
 * This study is limited in that it cannot test for the possibility that magic is inherently untestable and unfalsifiable, a claim that many believers make. This of course would mean that any study is doomed to fail, and also that magic spells have no measurable material effect on the physical world. This, I believe, would mean that magic spells cannot affect our lives in any way and are therefore useless, but that is a matter of philosophical debate.</p>
